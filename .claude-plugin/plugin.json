@@ -1,0 +1,11 @@
+{
+  "name": "restaurant-gm-coach",
+  "displayName": "Restaurant GM Coach",
+  "version": "0.3.0",
+  "description": "Copy an experienced restaurant Brand GM's judgement into a coach agent: conversations that extract decision logic and step-by-step thinking, a GM skill map, Shadow GM checks, user flags with GM retros, successor mentoring, and a four-layer thinking package for other systems.",
+  "author": { "name": "Sean Wang", "url": "https://github.com/seanwang78" },
+  "homepage": "https://github.com/seanwang78/restaurant-gm-coach",
+  "repository": "https://github.com/seanwang78/restaurant-gm-coach",
+  "license": "MIT",
+  "keywords": ["restaurant", "hospitality", "general-manager", "coaching", "knowledge-capture", "succession", "decision-making", "operations"]
+}

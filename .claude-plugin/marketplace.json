@@ -1,0 +1,8 @@
+{
+  "name": "restaurant-gm-coach",
+  "owner": { "name": "Sean Wang", "url": "https://github.com/seanwang78" },
+  "metadata": { "description": "Restaurant GM Coach — turn a Brand GM's experience into a coach agent." },
+  "plugins": [
+    { "name": "restaurant-gm-coach", "source": "./", "description": "Copy an experienced restaurant Brand GM's judgement into a coach agent." }
+  ]
+}
